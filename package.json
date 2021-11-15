@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "start": "node .output/server/index.mjs"
+  },
+  "devDependencies": {
+    "@vicons/ionicons5": "^0.11.0",
+    "@vicons/utils": "^0.1.4",
+    "naive-ui": "^2.20.1",
+    "nuxt3": "latest",
+    "vfonts": "^0.1.0",
+    "vue-gtag-next": "^1.14.0"
+  },
+  "dependencies": {
+    "ag-grid-enterprise": "^26.1.0",
+    "ag-grid-vue3": "^26.1.2",
+    "axios": "^0.23.0",
+    "moment": "^2.29.1",
+    "nuxt-material-design-icons-iconfont": "^1.0.2",
+    "vue-class-component": "^8.0.0-rc.1"
+  }
+}
